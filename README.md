@@ -19,7 +19,7 @@
 
 1. Установите [AdGuard](https://adguard.com/).  
 2. Перейдите в **Настройки → Фильтрация → Дополнения → Добавить → Импорт из файла или URL**.  
-3. Вставьте raw ссылку на файл.
+3. Вставьте [raw ссылку](https://raw.githubusercontent.com/sgysh3nka/anti-censorship-extreme-edition/refs/heads/main/main.js) на файл.
 4. Сохраните и включите фильтр.
 
 ---
